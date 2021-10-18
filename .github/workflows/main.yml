@@ -33,6 +33,5 @@ jobs:
           git config --global user.email "taozy.wu@qq.com"
           git config --global user.name "taozywu"
           git add README.md
-          git add docs
           git commit -m "Rss hour auto Updated"
           git push
