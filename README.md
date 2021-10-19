@@ -1,22 +1,14 @@
 # Rss hour
 
 邮件内容区开始>
-Rss num: 14  Date: 2021-10-19 04:03:22 <br/>
+Rss num: 6  Date: 2021-10-19 08:16:42 <br/>
 
-[MacBook Pro] 关于 M1 Pro/Max GPU 的使用场景和意义（和一个 mbp13 m1 用户对于 14 寸的吐槽）https://www.v2ex.com/t/808699#reply0<br/>
-[职场话题] Offer 决赛圈求选择https://www.v2ex.com/t/808698#reply2<br/>
-[Apple] 三款 M 芯片，苹果随便几刀就弄出来 7 个配置https://www.v2ex.com/t/808697#reply5<br/>
-[Apple] 做了一下 MBP 各地区的价格计算https://www.v2ex.com/t/808696#reply10<br/>
-[MacBook] 新 MacBook Pro 又把耳机口放到左边了，真是服了https://www.v2ex.com/t/808694#reply5<br/>
-[MacBook Pro] 14 英寸 MacBook Pro 和 16 英寸 MacBook Pro 机型将在获得批准后发售。https://www.v2ex.com/t/808693#reply5<br/>
-[macOS] macOS Monterey 通用控制（Universal Control）：今秋稍晚推出https://www.v2ex.com/t/808692#reply4<br/>
-[MacBook Pro] 等等明年的 M1 二代版的 MacBook Pro?https://www.v2ex.com/t/808691#reply1<br/>
-[Apple] M2 究竟会什么样子https://www.v2ex.com/t/808690#reply9<br/>
-[MacBook Pro] 让人窒息的 mbp 教育优惠也可以买了！https://www.v2ex.com/t/808689#reply7<br/>
-[Apple] 这次芯片牙膏挤爆了 是不是以后没法挤了https://www.v2ex.com/t/808688#reply16<br/>
-[MacBook Pro] 新 Mbp 加回了 MagSafe......https://www.v2ex.com/t/808687#reply1<br/>
-[Apple] 新款的 iMac Pro 被厨子吃了么？！https://www.v2ex.com/t/808686#reply2<br/>
-[Apple] 有「刘海儿」真好https://www.v2ex.com/t/808685#reply4<br/>
+[酷工作] [远程全职]全栈工程师(Vue, NodeJs, Python )https://www.v2ex.com/t/808709#reply1<br/>
+最前线 | 正式启动上市进程 蒲惠智造召开股改后首届股东大会https://36kr.com/p/1447195984390022<br/>
+焦点分析 | 苹果发布史上最强MacBook，但你不一定是它的用户https://36kr.com/p/1446230276761476<br/>
+理想汽车：将于临时股东大会上提呈普通决议案，批准授予董事一般授权https://36kr.com/newsflashes/1447200954427527<br/>
+秦皇岛港与煤企联合承诺，发布港口平舱指导价https://36kr.com/newsflashes/1447197796886407<br/>
+高层定调做好房地产税试点工作，专家称推进速度将加快https://36kr.com/newsflashes/1447195671029632<br/>
 
 
 <邮件内容区结束
