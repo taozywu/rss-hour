@@ -195,6 +195,8 @@ def send_qyweixin(content):
     
     if r.json().get('errcode') == 0:
         print('发送消息成功')
+    else:
+        print('发送消息失败')
     
 def get_qyweixin_token(corpid, corpsecret):
     url = 'https://qyapi.weixin.qq.com/cgi-bin/gettoken?corpid=%s&corpsecret=%s' % (corpid, corpsecret)
