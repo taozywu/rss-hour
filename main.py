@@ -145,15 +145,15 @@ def replace_readme():
             try:
                 for rss_info_atom in rss_info:
                     if (rss_info_atom["date"] == datetime.today().strftime("%Y-%m-%d")):
-                        if new_num > 0 and new_num % 14 == 0:
-                            try:
+                        #if new_num > 0 and new_num % 14 == 0:
+                            #try:
                                 #send_qyweixin(wx_content)
                                 #wx_content = ""
-                            except Exception as e:
-                                print("==发送消息失败==》》", e)
+                            #except Exception as e:
+                                #print("==发送消息失败==》》", e)
                          
                         #wx_content = wx_content + rss_info_atom["title"] + rss_info_atom["link"] + "<br/>\n"
-                        new_num = new_num + 1
+                        #new_num = new_num + 1
                         current_date_news_index[0] = current_date_news_index[0] + "<a href='"+rss_info_atom["link"]+"'>"+rss_info_atom["title"]+ "</a><br/>\n"
 
             except:
