@@ -1,80 +1,92 @@
 # Rss hour
 
 邮件内容区开始>
-Rss num: 0  Date: 2022-05-25 10:51:45 <br/>
+Rss num: 0  Date: 2022-05-25 18:14:43 <br/>
 
-<a href='https://www.v2ex.com/t/855154#reply0'>[职场话题] 用公司的企业微信的消息机器人接收个人消息推送有啥风险吗</a><br/>
-<a href='https://www.v2ex.com/t/855153#reply0'>[分享创造] 我做了个数字名片的原型</a><br/>
-<a href='https://www.v2ex.com/t/855152#reply3'>[iPhone] 请教下哪种方式从备份恢复 iPhone 最稳妥呢？</a><br/>
-<a href='https://www.v2ex.com/t/855151#reply3'>[程序员] 请问各位工作中做的事有成就感吗？</a><br/>
-<a href='https://www.v2ex.com/t/855150#reply0'>[分享发现] 在天猫国际购买商品的时候注意了，国内的 12315 无法处理</a><br/>
-<a href='https://www.v2ex.com/t/855148#reply4'>[Apple] 大家官网定制机啥动态了？</a><br/>
-<a href='https://www.v2ex.com/t/855146#reply1'>[iPhone] 收了一台 iPhone11 有推荐的电池更换吗</a><br/>
-<a href='https://www.v2ex.com/t/855145#reply0'>[创业组队] [Sideproject] 寻二三同道者与我一起，做一个数字名片产品</a><br/>
-<a href='https://www.v2ex.com/t/855144#reply0'>[推广] 腾讯云 GPU 云 5 折， Mysql 数据库 5.5 折</a><br/>
-<a href='https://www.v2ex.com/t/855141#reply2'>[问与答] Windows 是如何确定以太网连接的名称的？</a><br/>
-<a href='https://www.v2ex.com/t/855140#reply0'>[路由器] 办公地有两个内网，使用多 Wan 口的路由器接入，配置了静态路由但无效</a><br/>
-<a href='https://www.v2ex.com/t/855139#reply2'>[硬件] 高分屏带鱼屏选择</a><br/>
-<a href='https://www.v2ex.com/t/855138#reply0'>[程序员] 我的开源项目坚持２年多了，发布了 50 多个版本，商业项目也在路上摸索</a><br/>
-<a href='https://www.v2ex.com/t/855137#reply8'>[前端开发] 求助正则大佬</a><br/>
-<a href='https://www.v2ex.com/t/855136#reply5'>[宽带症候群] 请问那些小 IDC 的服务器带宽价格为什么那么便宜？</a><br/>
-<a href='https://www.v2ex.com/t/855135#reply5'>[宽带症候群] TP-link 的 POE AP+AC 的理论速度</a><br/>
-<a href='https://www.v2ex.com/t/855134#reply0'>[分享发现] 618 要到了，再分享一些自己认为的好物</a><br/>
-<a href='https://www.v2ex.com/t/855133#reply0'>[问与答] 企业招聘用的在线 SHL 测试怎么确定输入参数</a><br/>
-<a href='https://www.v2ex.com/t/855131#reply0'>[Apple] MacBook Pro Early 2015 13-inch 键盘和触摸板失灵问题</a><br/>
-<a href='https://www.v2ex.com/t/855130#reply4'>[问与答] 想买个 i5 12400 的主机</a><br/>
-<a href='https://www.v2ex.com/t/855129#reply11'>[Java] fastjson 真就突出一个阴魂不散</a><br/>
-<a href='https://www.v2ex.com/t/855128#reply21'>[Java] 话说要是自己实现一套 IM 的功能难度大吗？</a><br/>
-<a href='https://www.v2ex.com/t/855126#reply8'>[问与答] 618 大家给推荐一个安卓机</a><br/>
-<a href='https://www.v2ex.com/t/855125#reply8'>[问与答] 继 QQ 被封号之后微信也惨遭毒手，该如何应对和解决？</a><br/>
-<a href='https://www.v2ex.com/t/855124#reply9'>[macOS] Magic Trackpad 不如 Macbook Pro 的自带触控板顺滑，不会翻车了吧</a><br/>
-<a href='https://www.v2ex.com/t/855123#reply14'>[程序员] 国外访问国内网站，会被墙么</a><br/>
-<a href='https://www.v2ex.com/t/855122#reply2'>[问与答] 大家写 hugo 的 markdown，图片插入的路径怎么方便的解决的呢</a><br/>
-<a href='https://www.v2ex.com/t/855121#reply37'>[程序员] 上海这波疫情对你有哪些影响</a><br/>
-<a href='https://www.v2ex.com/t/855118#reply2'>[Apple] 屏蔽最新版 Youtube App 广告的脚本</a><br/>
-<a href='https://www.v2ex.com/t/855116#reply4'>[Apple] 关于 Xcode Package Manager</a><br/>
-<a href='https://www.v2ex.com/t/855115#reply2'>[分享创造] 近期给离线工具箱又增加了几个小工具</a><br/>
-<a href='https://www.v2ex.com/t/855114#reply26'>[分享创造] 最近迷上了捞鱼，隔山差五就去河边捞</a><br/>
-<a href='https://www.v2ex.com/t/855113#reply8'>[程序员] 不可不看的程序员续命科技</a><br/>
-<a href='https://www.v2ex.com/t/855112#reply18'>[问与答] 前端问题 为什么我的 fliter 能改变原数组？网上全部都是 filter 不改变原数组....</a><br/>
-<a href='https://www.v2ex.com/t/855111#reply0'>[问与答] 怎么感觉 bug 越来越多</a><br/>
-<a href='https://www.v2ex.com/t/855110#reply85'>[程序员] 如何让代码变得很难让别人接手</a><br/>
-<a href='https://www.v2ex.com/t/855109#reply3'>[宽带症候群] 请教 DDNS，在某些网络下，解析正常， ip 能访问，但域名不能访问？</a><br/>
-<a href='https://www.v2ex.com/t/855108#reply1'>[iCloud] icloud 同步照片后，会不会影响 onedirve 的备份啊？</a><br/>
-<a href='https://www.v2ex.com/t/855107#reply14'>[分享创造] 回归原始的笔记软件</a><br/>
-<a href='https://www.v2ex.com/t/855106#reply4'>[问与答] 寻找 Mac OS 平台上的文本格式处理软件</a><br/>
-<a href='https://www.v2ex.com/t/855105#reply3'>[Apple] iOS 长按桌面 App 图标后弹出的快捷菜单选项，是否存在用户可使用的 URL Scheme？</a><br/>
-<a href='https://www.v2ex.com/t/855104#reply27'>[Apple] 有什么跟 ios 配合比较好的第三方手表/手环</a><br/>
-<a href='https://www.v2ex.com/t/855103#reply15'>[V2EX] 连续签到 1000 天，发帖纪念一下😃</a><br/>
-<a href='https://36kr.com/p/1755098919256070'>手握全球最小心脏泵，Abiomed如何突破不确定的商业化之路？</a><br/>
-<a href='https://36kr.com/p/1755111977172612'>焦点分析｜单季度首次全面盈利，瑞幸离重返纳斯达克不远了</a><br/>
-<a href='https://36kr.com/p/1754757309333124'>一加告别一加，罗曼蒂克的消亡 | 焦点分析</a><br/>
-<a href='https://36kr.com/p/1755826829262855'>租在胡同儿的大厂青年：不要房补，只要烟火</a><br/>
-<a href='https://36kr.com/p/1754880434798596'>三款宠物食品淘系第一，「阿飞和巴弟」如何将单品效率最大化？</a><br/>
-<a href='https://36kr.com/p/1755802612268673'>8点1氪丨爱彼迎关闭中国大陆业务；知乎回应“新一轮裁员”；百度地图与汽车业务合并</a><br/>
-<a href='https://36kr.com/p/1744679028469378'>36氪首发 | 定位职场人应用连接助手，腾讯云推出「HiFlow场景连接器」</a><br/>
-<a href='https://36kr.com/p/1753410066169864'>聚焦膜科技创新应用，「邻得膜医疗」拓展膀胱癌早筛产品</a><br/>
-<a href='https://36kr.com/p/1754650254458886'>36氪首发 | 「纷享销客」获中软国际近亿元融资，重点推进行业化、生态化战略</a><br/>
-<a href='https://36kr.com/p/1753659422801545'>瞄准“先用后付”市场，「Okebeli」 打造“一带一路”出海品牌</a><br/>
-<a href='https://36kr.com/newsflashes/1755955502022660'>微软将向川崎重工提供“工业元宇宙”业务</a><br/>
-<a href='https://36kr.com/newsflashes/1755954486886409'>电子烟概念股震荡走低，金莱特一度跌停</a><br/>
-<a href='https://36kr.com/newsflashes/1755944441430025'>日本政府向国会提交本财年补充预算案</a><br/>
-<a href='https://36kr.com/newsflashes/1755941970771973'>万年青：近期公司部分区域水泥价格上调了30-50元不等</a><br/>
-<a href='https://36kr.com/newsflashes/1755937223884808'>88股即将实施分红，极米科技派现最大方</a><br/>
-<a href='https://36kr.com/newsflashes/1755933110812674'>真实生物：阿兹夫定还未上市</a><br/>
-<a href='https://36kr.com/newsflashes/1755932250685057'>电力板块异动拉升，明星电力涨停</a><br/>
-<a href='https://36kr.com/newsflashes/1755925421588102'>比亚迪、亿纬锂能等18股获北向资金增持额超亿元</a><br/>
-<a href='https://36kr.com/newsflashes/1755923628916741'>民航机场板块震荡走高，吉祥航空、中国国航涨超5%</a><br/>
-<a href='https://36kr.com/newsflashes/1755919541387272'>油气股震荡走强，中曼石油涨超7%</a><br/>
-<a href='https://36kr.com/newsflashes/1755916964331529'>航运港口板块持续拉升，多股涨停</a><br/>
-<a href='https://36kr.com/newsflashes/1755912229847049'>124股获融资买入超亿元，天齐锂业获买入14.17亿元居首</a><br/>
-<a href='https://36kr.com/newsflashes/1755909494095874'>国家发改委：对哄抬价格的煤炭经营者将依法处罚</a><br/>
-<a href='https://36kr.com/newsflashes/1755905563410432'>北京申请新能源小客车指标家庭超22万个</a><br/>
-<a href='https://36kr.com/newsflashes/1755903595380739'>养殖股震荡走强，立华股份涨超7%</a><br/>
-<a href='https://36kr.com/newsflashes/1755900052226052'>臻镭科技等7只科创板股融资余额增幅超10%</a><br/>
-<a href='https://36kr.com/newsflashes/1755897586892421'>免税店概念异动拉升，东百集团涨停</a><br/>
-<a href='https://36kr.com/newsflashes/1755896450154115'>汽车整车板块早盘走低，亚星客车跌超7%</a><br/>
-<a href='https://36kr.com/newsflashes/1755892314210312'>港口股震荡走强，招商南油涨停</a><br/>
+<a href='https://www.v2ex.com/t/855271#reply3'>[程序员] 为什么国内网站喜欢用短信作二次验证,而不用 TOTP?</a><br/>
+<a href='https://www.v2ex.com/t/855269#reply2'>[问与答] shell 脚本的字符串中包含的变量要怎么才能被解析</a><br/>
+<a href='https://www.v2ex.com/t/855268#reply0'>[Go 编程语言] GitHub 仓库对比工具 —— github-compare</a><br/>
+<a href='https://www.v2ex.com/t/855267#reply4'>[V2EX] 为什么这几天会出现提示:你没有查看此页面的用户权限,被封号了？也不像啊</a><br/>
+<a href='https://www.v2ex.com/t/855266#reply0'>[问与答] 求助,踩到知识盲区了.如何才能对 git submodule 启用 husky 校验? eslint 和 package 在主项目中, 子模块只是一堆 vue 文件.和一个.git 文件,没有 package.json</a><br/>
+<a href='https://www.v2ex.com/t/855265#reply0'>[问与答] 不同系统之间字段统一</a><br/>
+<a href='https://www.v2ex.com/t/855264#reply1'>[酷工作] [上海] 高级硬件质量工程师</a><br/>
+<a href='https://www.v2ex.com/t/855262#reply4'>[macOS] Mac 上的 Apple Music，点了一下 Itunes store 菜单，就无法切换到其他菜单了。。</a><br/>
+<a href='https://www.v2ex.com/t/855261#reply9'>[程序员] 百度开始病急乱投医了吗</a><br/>
+<a href='https://www.v2ex.com/t/855260#reply3'>[分享创造] IDEA 禁止使用 com.alibaba 包下轮子的插件</a><br/>
+<a href='https://www.v2ex.com/t/855259#reply0'>[Google] 今天 chrome 在 play 市场更新后，除谷歌外所有网站的 cookies 均失效了，需重新登录</a><br/>
+<a href='https://www.v2ex.com/t/855258#reply3'>[问与答] 你们都用什么方法缓解眼睛疲劳？</a><br/>
+<a href='https://www.v2ex.com/t/855257#reply2'>[酷工作] [内推] [北京/深圳/成都]「字节跳动 - 智能化创作」招前端(含实习), 新方向大量机会</a><br/>
+<a href='https://www.v2ex.com/t/855254#reply1'>[iOS] 有没有汇聚 bbs 的 app</a><br/>
+<a href='https://www.v2ex.com/t/855253#reply3'>[生活] 提前还部分房贷的收益计算</a><br/>
+<a href='https://www.v2ex.com/t/855252#reply5'>[问与答] 刚学习编程就遇到 Cannot find module 'Buffer' or its corresponding type declarations</a><br/>
+<a href='https://www.v2ex.com/t/855251#reply13'>[分享创造] [榴莲日记] 总有留恋，留在心间！ By Flutter</a><br/>
+<a href='https://www.v2ex.com/t/855249#reply9'>[问与答] 安卓开发用 vivo 的坑， as 要怎么持续安装 apk？</a><br/>
+<a href='https://www.v2ex.com/t/855248#reply0'>[OpenWrt] OpenWrt 只桥接 ipv6 而 ipv4 使用 NAT 是否可行？</a><br/>
+<a href='https://www.v2ex.com/t/855247#reply1'>[Google] 谷歌:Our hearts are with the community of Lvalde , Texas. 我们的心与德克萨斯州利瓦尔德社区同在.</a><br/>
+<a href='https://www.v2ex.com/t/855246#reply18'>[Linux] 记一次 arch 从入门到跑路</a><br/>
+<a href='https://www.v2ex.com/t/855245#reply3'>[问与答] 在职找工作，可以跟对方约定一月后入职吗？</a><br/>
+<a href='https://www.v2ex.com/t/855244#reply1'>[Linux] [求助]ArchLinux 上无法使用杜伽 G502 键盘的蓝牙链接输入</a><br/>
+<a href='https://www.v2ex.com/t/855242#reply12'>[宽带症候群] 广州电信不给双公网了，以前一直都是 ipv4 和 ipv6 公网用得好好的， 5 月十几号开始 ipv6 就不能用了。报了故障，电信师傅说 ipv4 公网和 ipv6 公网只能要其中一种。</a><br/>
+<a href='https://www.v2ex.com/t/855241#reply10'>[MacBook Pro] pdd 把底配 mbp 14 干到 86 折了</a><br/>
+<a href='https://www.v2ex.com/t/855240#reply15'>[macOS] 吐槽一下 Mac 端钉钉吧。</a><br/>
+<a href='https://www.v2ex.com/t/855239#reply2'>[程序员] 磁盘的最大寻道时间(max seek time)或者平均寻道时间从哪里获得?</a><br/>
+<a href='https://www.v2ex.com/t/855238#reply2'>[酷工作] Find a fun project about OS, hack it Ruster !</a><br/>
+<a href='https://www.v2ex.com/t/855237#reply3'>[酷工作] 小伙伴们，投递邮箱： hr@enlighten.finance</a><br/>
+<a href='https://www.v2ex.com/t/855236#reply1'>[分享创造] 做了个面对创作者的认知小网站， nft101.lfgkids.com，希望大家来玩。</a><br/>
+<a href='https://www.v2ex.com/t/855235#reply1'>[问与答] 关于 dhparam</a><br/>
+<a href='https://www.v2ex.com/t/855234#reply1'>[macOS] 存储里有多个时间机器备份磁盘, 怎么删除呢.</a><br/>
+<a href='https://www.v2ex.com/t/855233#reply1'>[分享创造] 分享一个简单的基于 Jackson 的工具类, 别再用 fastJson 了</a><br/>
+<a href='https://www.v2ex.com/t/855232#reply8'>[macOS] github 上的日历订阅失效了</a><br/>
+<a href='https://www.v2ex.com/t/855230#reply6'>[Python] 爬虫 5s 盾现在有什么解决办法啊</a><br/>
+<a href='https://www.v2ex.com/t/855229#reply37'>[Android] 使用 MIUI13 到底有没有安全风险？</a><br/>
+<a href='https://www.v2ex.com/t/855227#reply1'>[问与答] 求推荐远程软件， 4k 显示器， win 下分辨率可以适配到 2k，类似 jump desk</a><br/>
+<a href='https://www.v2ex.com/t/855226#reply2'>[问与答] 求助，从 intel 到 M1，用 jetbrains toolbox 下载 idea 全家桶是怎么从 intel 版本到 m1 版本的？</a><br/>
+<a href='https://www.v2ex.com/t/855225#reply2'>[分享创造] [chrome 插件] 做了一个书签操作的插件 EStar ⭐，欢迎大家试用提提意见</a><br/>
+<a href='https://www.v2ex.com/t/855223#reply11'>[问与答] 该不该安排重疾险？</a><br/>
+<a href='https://www.v2ex.com/t/855222#reply2'>[程序员] 互联网小兵，热门优质文章（后端、前端、移动端、算法、人工智能等），招聘面经、科技资讯</a><br/>
+<a href='https://www.v2ex.com/t/855221#reply1'>[问与答] 迫于母上手机卡爆，询问 618 有啥好机可购</a><br/>
+<a href='https://www.v2ex.com/t/855220#reply2'>[深圳] 深圳哪里箍牙好？</a><br/>
+<a href='https://www.v2ex.com/t/855219#reply3'>[酷工作] TalentOrg 寻找一位 TPM 小伙伴</a><br/>
+<a href='https://www.v2ex.com/t/855218#reply18'>[问与答] 发现一个很神奇的问题,域名过期了,但域名邮箱仍然正常使用</a><br/>
+<a href='https://www.v2ex.com/t/855217#reply7'>[Edge] Edge 浏览器打开的一个网址，修改了 localStorage，在 webview 的 localStorage 里面看不到对应的修改内容？</a><br/>
+<a href='https://www.v2ex.com/t/855216#reply2'>[Python] Python ，有熟悉 ib api 的朋友吗？</a><br/>
+<a href='https://www.v2ex.com/t/855214#reply21'>[问与答] 牙齿上有个洞咋整</a><br/>
+<a href='https://www.v2ex.com/t/855213#reply19'>[宽带症候群] 大佬们教一下怎么去搭建我这个网络环境</a><br/>
+<a href='https://36kr.com/p/1756317085122176'>热爱未来，让奇迹持续发生</a><br/>
+<a href='https://36kr.com/p/1756344737513091'>研报淘金 | 资本加码，需求高增，谁会成为中国ASML？</a><br/>
+<a href='https://36kr.com/p/1756338722177029'>智氪 | 如何从行业发展趋势来理解药明康德增发H股？</a><br/>
+<a href='https://36kr.com/p/1747811088842376'>布局医药企业数字化转型，「戊戌数据」获数百万元pre-A轮融资</a><br/>
+<a href='https://36kr.com/p/1756190560747140'>在中国超大规模投入，博世的智能驾驶焦虑能缓解吗？｜36氪专访</a><br/>
+<a href='https://36kr.com/p/1756271915646976'>三年时间，估值从15亿到178亿，「老乡鸡」极速膨胀｜IPO观察</a><br/>
+<a href='https://36kr.com/p/1756223826100232'>科氪 | 登峰造绝，华硕轻薄本的2022版“无与伦比”</a><br/>
+<a href='https://36kr.com/p/1753489264295936'>我们打算做一份Martech行业图谱，寻找中国玩家｜36氪征集</a><br/>
+<a href='https://36kr.com/p/1755786870718084'>转让持有Space X、Shein、某头部智能驾驶公司股份的专项基金LP份额｜资情留言板第45期</a><br/>
+<a href='https://36kr.com/p/1755473525522055'>Long China 50 分析 | 踩刹车、补短板，小鹏汽车抵御风暴成效几何？</a><br/>
+<a href='https://36kr.com/newsflashes/1756383742361218'>长安汽车：华为智能驾驶研发团队千余人致力于阿维塔11联合开发</a><br/>
+<a href='https://36kr.com/newsflashes/1756374933552777'>T3出行据悉寻求至少50亿元融资</a><br/>
+<a href='https://36kr.com/newsflashes/1756362583260807'>恒指公司：将中芯国际纳入恒指ESG增强指数和恒指ESG增强精选指数</a><br/>
+<a href='https://36kr.com/newsflashes/1756360516632576'>北向资金今日净买入长江电力2.37亿元</a><br/>
+<a href='https://36kr.com/newsflashes/1756358790791172'>马斯克进军餐饮业，将在好莱坞开设特斯拉餐厅</a><br/>
+<a href='https://36kr.com/newsflashes/1756356456284163'>西南证券：拟与控股股东共同设立重庆股权服务集团</a><br/>
+<a href='https://36kr.com/newsflashes/1756354563980928'>唐山市取消商品住房限购限售</a><br/>
+<a href='https://36kr.com/newsflashes/1756343977410180'>北京：韵达快递长阳分部相关疫情、中铁十一局三公司项目疫情基本得到控制</a><br/>
+<a href='https://36kr.com/newsflashes/1756338167299720'>北京：中高考将如期举行</a><br/>
+<a href='https://36kr.com/newsflashes/1756333226459139'>国办：强化药品供应保障能力，加快有临床价值的创新药上市</a><br/>
+<a href='https://36kr.com/newsflashes/1756331417452547'>国办：推行以按病种付费为主的多元复合式医保支付方式</a><br/>
+<a href='https://36kr.com/newsflashes/1756329927294978'>国办：开展医疗、医保、医药联动促进中医药传承创新发展试点</a><br/>
+<a href='https://36kr.com/newsflashes/1756324009033734'>国务院办公厅印发深化医药卫生体制改革2022年重点工作任务</a><br/>
+<a href='https://36kr.com/newsflashes/1756309249458179'>安琪酵母：滨州公司拟扩建6000吨酵母抽提物项目</a><br/>
+<a href='https://36kr.com/newsflashes/1756304481336964'>文远知行获博世战略投资</a><br/>
+<a href='https://36kr.com/newsflashes/1756300391906952'>乘联会：第三周总体狭义乘用车市场零售达到日均4.2万辆，同比下降6%</a><br/>
+<a href='https://36kr.com/newsflashes/1756295076036613'>国家医保局发函地方：不得用医保支付大规模人群核酸检测费用</a><br/>
+<a href='https://36kr.com/newsflashes/1756280751292420'>迪安诊断：猴痘病毒核酸检测试剂盒获得CE认证</a><br/>
+<a href='https://36kr.com/newsflashes/1756272349134850'>恒指收涨0.29%，恒生科技指数涨0.28%</a><br/>
+<a href='http://www.huxiu.com/article/560933.html?f=wangzhan'>半分钟造一辆车：特斯拉的这项绝技，蔚小理也想要</a><br/>
+<a href='http://www.huxiu.com/article/564347.html?f=wangzhan'>估值超百亿，这瓶“白色可乐“凭什么这么火？</a><br/>
+<a href='http://www.huxiu.com/article/564217.html?f=wangzhan'>三七互娱，站在十字路口</a><br/>
+<a href='http://www.huxiu.com/article/564312.html?f=wangzhan'>性生活会导致脱发吗？</a><br/>
+<a href='http://www.huxiu.com/article/564154.html?f=wangzhan'>不景气的汽车业，谁是最惨的人？</a><br/>
+<a href='http://www.huxiu.com/article/564199.html?f=wangzhan'>2022年投资新能源车电池材料，还能赚钱吗？</a><br/>
 <a href='http://www.huxiu.com/article/563686.html?f=wangzhan'>这样的刹车系统，也太原始了</a><br/>
 
 
